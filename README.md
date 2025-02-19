@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Atanas👋
 
-<!--
-**AtanasI7/AtanasI7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Developer | Passionate About Python & Databases
 
-Here are some ideas to get you started:
+### About Me
+🎓 **Student at Plovdiv University**, majoring in Business and Information Technologies.<br>
+💻 Strong programming skills in **Python**, with a focus on **OOP and best coding practices**.<br>
+🛠️ Experience with **PostgreSQL**, database management, and SQL optimization.<br>
+📚 Constantly improving by taking courses.<br>
+🚀 Seeking an **internship or junior position** to apply my skills in real-world projects.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 30px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 30px;"/>
+</p>
+
