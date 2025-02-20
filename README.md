@@ -1,7 +1,5 @@
 # Hi there, I'm Atanas👋
 
-## Aspiring Software Developer | Passionate About Python & Databases
-
 ### About Me
 🎓 **Student at Plovdiv University**, majoring in Business and Information Technologies.<br>
 💻 Strong programming skills in **Python**, with a focus on **OOP and best coding practices**.<br>
