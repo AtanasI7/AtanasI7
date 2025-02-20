@@ -1,7 +1,7 @@
 # Hi there, I'm Atanas👋
 
 ### About Me
-🎓 **Student at Plovdiv University**, majoring in Business and Information Technologies.<br>
+🎓 **Student at Plovdiv University**, majoring in **Business and Information Technologies**.<br>
 💻 Strong programming skills in **Python**, with a focus on **OOP and best coding practices**.<br>
 🛠️ Experience with **PostgreSQL**, database management, and SQL optimization.<br>
 📚 Constantly improving by taking courses.<br>
